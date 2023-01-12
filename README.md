@@ -23,5 +23,5 @@ Eu me chamo Daniel e estou iniciando os estudos de Back-End ultilizando as lingu
 * Assistência Técnica Remota em Computadores
 * TeamViewer e Anydesk
 
-#### Depois dê uma olhada no meu <a href="https://www.linkedin.com/in/daniel-nery-dns/">LinkedIn</a>:blush:
+#### Depois dê uma olhada no meu [LinkedIn](https://www.linkedin.com/in/daniel-nery-dns) :blush:
 
