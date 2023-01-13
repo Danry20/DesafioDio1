@@ -10,7 +10,7 @@ Eu me chamo Daniel e estou iniciando os estudos de Back-End ultilizando as lingu
 
 ### Atualmente estou estudando:
 
-- Bootcamp DIO Inter Orange Tech+ (Java e Spring)
+- Bootcamp na DIO Inter Orange Tech+ (Java e Spring)
 - Graduação em Gestão da Tecnologia da Informação (UVA)
 - SQL Server (Microsoft Learn)
 - Excel e entre outros.:smile:
